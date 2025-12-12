@@ -234,3 +234,11 @@ Understanding Kubernetes DNS and resource limits
 Everything is fully functional, and the Flask service is reachable at:
 
 http://127.0.0.1:53315/
+
+
+
+Below are the screenshots demonstrating the working application, API responses, and autoscaling results.
+![ss1](images/ss1.png)
+![ss2](images/ss2.png)
+![ss3](images/ss3.png)
+![ss4](images/ss4.png)
